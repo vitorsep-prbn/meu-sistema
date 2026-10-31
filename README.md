@@ -4,7 +4,7 @@ Sistema de console em **C#** para gerenciamento e autenticação de usuários.
 
 ## 🛠️ Funcionalidades
 
-- [ ] **Cadastro:** Registrar novos usuários.
+- [X] **Cadastro:** Registrar novos usuários.
 - [ ] **Listagem:** Listar todos os usuários.
 - [ ] **Busca:** Pesquisar usuários.
 - [ ] **Remoção:** Excluir usuários.
