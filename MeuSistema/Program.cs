@@ -3,7 +3,8 @@
 class Program
 {
     static void Main()
-    {
+    {   
+        Console.Clear();
         int opcao = -1;
         while (opcao != 0)
         {
