@@ -1,0 +1,15 @@
+C:\Workspace\meu-sistema\MeuSistema\bin\Debug\net10.0\MeuSistema.exe
+C:\Workspace\meu-sistema\MeuSistema\bin\Debug\net10.0\MeuSistema.deps.json
+C:\Workspace\meu-sistema\MeuSistema\bin\Debug\net10.0\MeuSistema.runtimeconfig.json
+C:\Workspace\meu-sistema\MeuSistema\bin\Debug\net10.0\MeuSistema.dll
+C:\Workspace\meu-sistema\MeuSistema\bin\Debug\net10.0\MeuSistema.pdb
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.AssemblyInfoInputs.cache
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.AssemblyInfo.cs
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.csproj.CoreCompileInputs.cache
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.sourcelink.json
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.dll
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\refint\MeuSistema.dll
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.pdb
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\MeuSistema.genruntimeconfig.cache
+C:\Workspace\meu-sistema\MeuSistema\obj\Debug\net10.0\ref\MeuSistema.dll
